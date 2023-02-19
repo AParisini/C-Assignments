@@ -1,6 +1,0 @@
-#ifndef __FUNCTION_HEADER
-#define __FUNCTION_HEADER
-
-void primes(long);
-
-#endif
